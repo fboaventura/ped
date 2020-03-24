@@ -49,8 +49,6 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 
 ### Instruções para envio
 
-Enviar para: <atividadesisolamento@gmail.com>
-
 1. Enviem um e-mail para cada disciplina, não misturem as disciplinas.
 
 2. Na parte “*assunto*”- coloquem a **disciplina** e a **turma** do aluno.
@@ -60,7 +58,5 @@ Enviar para: <atividadesisolamento@gmail.com>
 3. No corpo do e-mail, favor iniciarem o texto escrevendo o **nome** e **sobrenome** do aluno e a **turma**. Em seguida, descrevam o que está sendo enviando.
 
     **Exemplo**: *Márcia Viana dos Santos - 5º Ano*
-
-    ![e-mail](exemplo_email.jpg)
 
 4. Pedimos a gentileza de não enviarem atividades _**antes**_ ou **_após_** os prazos solicitados.
