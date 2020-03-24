@@ -1,4 +1,4 @@
-# Ciências
+# Escola da Inteligência
 
 ## Planos de Estudo
 

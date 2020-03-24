@@ -21,3 +21,5 @@ https://www.historia-brasil.com/colonia/primeiras-cidades.htm
 * [Questionário do Censo](https://www.ibge.gov.br/media/com_mediaibge/arquivos/19361f45cc3e3b003f0a552ecde1c45f.pdf)
 
  Nesse site você encontra um questionário exemplar das perguntas realizadas durante o Censo. Objetivo: com o questionário do censo do IBGE, o aluno passa a perceber quais são os métodos e qual é o objetivo e a importância de se coletar dados sobre a população.
+
+[Voltar](../index.md)

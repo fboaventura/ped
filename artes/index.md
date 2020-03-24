@@ -1,4 +1,4 @@
-# Ciências
+# Artes
 
 ## Planos de Estudo
 

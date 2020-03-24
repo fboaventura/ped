@@ -93,3 +93,17 @@ Em meio ao contexto atual, a possibilidade de estudar e vivenciar o inglês em c
 * <https://epractice.edifyeducation.com.br/activity/classroom-objects/>
 
 * Observar as figuras e escolher a opção que melhor identifica os objetos.
+
+### Atividades
+
+Atividades práticas (**vivências**) para serem realizadas pelos alunos, filmadas e enviadas para o e-mail divulgado. (vídeos pequenos, para postagem – *mp4 e não podem passar de 01 minuto*)
+
+#### “QUIZ” GASTRONÔMICO ( enviar no dia: 27/03)
+
+Com base nos estudos sobre Países e Nacionalidades (unidade 1), os pais podem fazer um quiz perguntando aos seus filhos a origem de alguns pratos/comidas famosas. Filhos deverão responder no modelo: “[prato/comida] is [Italian]” ou “[prato/comida] is from [Italy]”. Sugestões e modelos de respostas: pizza – Italian / from Italy ; sushi – Japanese / from Japan ; Pastéis de Bélem – Portuguese / from Portugal ;nachos/tacos – Mexican / from Mexico ; croissant– French / from France ; etc.
+
+#### CONHECIMENTOS GERAIS ( enviar no dia: 27/03)
+
+Vamos testar de maneira divertida os conhecimentos gerais dos alunos sobre pessoas famosas? Você vai precisar de 2 folhas em branco e algo para marcar o tempo. Previamente, anote na folha as seguintes ocupações: singer; gymnast; athlete; Youtuber; blogger; TV host, actor, actress (cantor, ginasta, atleta, Youtuber, blogueiro, apresentador de TV, ator e atriz). Depois, para cada ocupação, dar 1 minuto para o aluno anotar quantas pessoas famosas de cada ele consegue se lembrar.
+
+[Voltar](../index.md)
