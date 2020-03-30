@@ -45,7 +45,7 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 
 ## Datas para envio das atividades corrigidas
 
-### Unidade 01
+### Semana 01
 
 * Ciências: **24/03**
 * Canguru Matemático: **24/03**
@@ -56,6 +56,11 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 * História: **26/03**
 * Geografia: **26/03**
 * Inglês: **27/03**
+
+### Semana 02
+
+* Português: **30/03**
+* Redação: **30/03**
 
 ### Instruções para envio
 
