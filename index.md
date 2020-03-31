@@ -61,6 +61,9 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 
 * Português: **30/03**
 * Redação: **30/03**
+* Português: **31/03**
+* Geografia: **31/03**
+* Inglês: **31/03**
 
 ### Instruções para envio
 
