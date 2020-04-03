@@ -21,7 +21,9 @@ Links para complementação dos estudos:
 Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a seguir alguns links interessantes que poderão enriquecer a aprendizagem dos nossos estudantes.
 
 ## Plano de Estudos por Matéria
-
+---
+*  [Dia-03/04](dia_20200403.md)
+---
 * [Ciências](ciencias/index.md)
   * [Semana 1](ciencias/semana1.md)
 * [Geografia](geografia/index.md)
