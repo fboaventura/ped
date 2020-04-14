@@ -28,6 +28,8 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 *  [Dia-06/04](dia_20200406.md)
 *  [Dia-07/04](dia_20200407.md)
 *  [Dia-08/04](dia_20200408.md)
+*  [Dia-13/04](dia_20200413.md)
+*  [Dia-14/04](dia_20200414.md)
 
 
 ---
