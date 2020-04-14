@@ -23,13 +23,17 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 ## Plano de Estudos por Matéria
 
 ---
-
+### Semana 3
 *  [Dia-03/04](dia_20200403.md)
 *  [Dia-06/04](dia_20200406.md)
 *  [Dia-07/04](dia_20200407.md)
 *  [Dia-08/04](dia_20200408.md)
+### Semana 4
 *  [Dia-13/04](dia_20200413.md)
 *  [Dia-14/04](dia_20200414.md)
+*  [Dia-15/04](dia_20200415.md)
+*  [Dia-16/04](dia_20200416.md)
+*  [Dia-17/04](dia_20200417.md)
 
 
 ---
