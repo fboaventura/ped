@@ -34,7 +34,10 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 *  [Dia-15/04](dia_20200415.md)
 *  [Dia-16/04](dia_20200416.md)
 *  [Dia-17/04](dia_20200417.md)
-
+### Semana 5
+*  [Dia-22/04](dia_20200422.md)
+*  [Dia-23/04](dia_20200423.md)
+*  [Dia-24/04](dia_20200424.md)
 
 ---
 * [Ciências](ciencias/index.md)
