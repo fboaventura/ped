@@ -28,16 +28,24 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 *  [Dia-06/04](dia_20200406.md)
 *  [Dia-07/04](dia_20200407.md)
 *  [Dia-08/04](dia_20200408.md)
+
 ### Semana 4
 *  [Dia-13/04](dia_20200413.md)
 *  [Dia-14/04](dia_20200414.md)
 *  [Dia-15/04](dia_20200415.md)
 *  [Dia-16/04](dia_20200416.md)
 *  [Dia-17/04](dia_20200417.md)
+
 ### Semana 5
 *  [Dia-22/04](dia_20200422.md)
 *  [Dia-23/04](dia_20200423.md)
 *  [Dia-24/04](dia_20200424.md)
+
+### Semana 6
+* [Dia-27/04](dia_20200427.md)
+* [Dia-28/04](dia_20200428.md)
+* [Dia-29/04](dia_20200429.md)
+* [Dia-30/04](dia_20200430.md)
 
 ---
 * [Ciências](ciencias/index.md)
