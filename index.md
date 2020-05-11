@@ -20,9 +20,12 @@ Links para complementação dos estudos:
 
 Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a seguir alguns links interessantes que poderão enriquecer a aprendizagem dos nossos estudantes.
 
-## Plano de Estudos por Matéria
+## Plano de Estudos
 
 ---
+### Semana 8
+* [Dia-11/05](dia_20200511.md)
+
 ### Semana 7
 * [Dia-04/05](dia_20200504.md)
 * [Dia-05/05](dia_20200505.md)
