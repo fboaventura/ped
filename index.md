@@ -25,6 +25,8 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 ---
 ### Semana 8
 * [Dia-11/05](dia_20200511.md)
+* [Dia-12/05](dia_20200512.md)
+  * Avaliação de Literatura - 13:00 - 15:00h [AVA]
 
 ### Semana 7
 * [Dia-04/05](dia_20200504.md)
@@ -124,3 +126,7 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 * Livros do Poliedro, Edify e Escola da Inteligência - para as famílias que possuem material em casa, sugerimos que os livros sejam encapados e etiquetados.
 
 * Livros Digitais - Poliedro: lembramos que no portal do Poliedro, constam todos os livros didáticos em formato digital. As famílias que não conseguiram buscar os livros dos seus filhos na escola podem recorrer a esse recurso.
+
+
+
+[AVA]:  https://poliedro-ava.azurewebsites.net
