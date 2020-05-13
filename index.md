@@ -27,6 +27,8 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 * [Dia-11/05](dia_20200511.md)
 * [Dia-12/05](dia_20200512.md)
   * Avaliação de Literatura - 13:00 - 15:00h [AVA]
+* [Dia-13/05](dia_20200513.md)
+  * Avaliação de História - 13:00 - 15:00h [AVA]
 
 ### Semana 7
 * [Dia-04/05](dia_20200504.md)
