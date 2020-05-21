@@ -7,6 +7,7 @@ Seguem abaixo os sites/ portais que os alunos precisarão para o suporte de seus
 site do CEPC- na página principal, vocês encontrarão no menu superior direito, o botão Mídia. Nossos arquivos se encontram nele, na parte Downloads
 
 * [Portal Poliedro](http://www.portal.p4ed.com)
+* [Plataforma AVA](https://poliedro-ava.azurewebsites.net)
 
 portal da Poliedro - login e senha fixados no dia 01 ou 02/01 na agenda escolar. Nesse portal, o aluno terá possibilidade de acessar Balcão de Redação, HD virtual, livros em formato digital e outras opções de ferramentas.
 
