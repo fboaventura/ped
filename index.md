@@ -28,9 +28,12 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 * [Dia-25/05](dia_20200525.md)
   * Avaliação de **Matemática** - 13:00 - 15:00h [AVA]
 * [Dia-26/05](dia_20200526.md)
+  * **Prova OMP - Nível Jr - 1ª Fase** - [Sistema Poliedro](http://www.sistemapoliedro.com.br/simuladosdigitais/)
 * [Dia-27/05](dia_20200527.md)
 * [Dia-28/05](dia_20200528.md)
+  * Avaliação de **Inglês** - 13:00 - 15:00h [AVA]
 * [Dia-29/05](dia_20200529.md)
+  * **Prova EDROS** - [Sistema Poliedro](http://www.sistemapoliedro.com.br/simuladosdigitais/)
 
 ### Semana 9
 * [Dia-18/05](dia_20200518.md)
