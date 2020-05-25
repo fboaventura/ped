@@ -24,6 +24,14 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 ## Plano de Estudos
 
 ---
+### Semana 10
+* [Dia-25/05](dia_20200525.md)
+  * Avaliação de **Matemática** - 13:00 - 15:00h [AVA]
+* [Dia-26/05](dia_20200526.md)
+* [Dia-27/05](dia_20200527.md)
+* [Dia-28/05](dia_20200528.md)
+* [Dia-29/05](dia_20200529.md)
+
 ### Semana 9
 * [Dia-18/05](dia_20200518.md)
   * Avaliação de **Geografia** - 13:00 - 15:00h [AVA]
