@@ -24,6 +24,7 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 ## Plano de Estudos
 
 ### Semana 10
+
 * [Dia-25/05](dia_20200525.md)
   * Avaliação de **Matemática** - 13:00 - 15:00h [AVA]
 * [Dia-26/05](dia_20200526.md)
@@ -43,30 +44,8 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 * [Semana 5](S05/index.md)
 * [Semana 4](S04/index.md)
 * [Semana 3](S03/index.md)
-
----
-* [Ciências](ciencias/index.md)
-  * [Semana 1](ciencias/semana1.md)
-* [Geografia](geografia/index.md)
-  * [Semana 1](geografia/semana1.md)
-  * [Semana 2](geografia/semana2.md)
-* [História](historia/index.md)
-  * [Semana 1](historia/semana1.md)
-* [Matemática](matematica/index.md)
-  * [Semana 1](matematica/semana1.md)
-* [Português](portugues/index.md)
-  * [Semana 1](portugues/semana1.md)
-  * [Semana 2](portugues/semana2.md)
-* [Redação](redacao/index.md)
-  * [Semana 1](redacao/semana1.md)
-  * [Semana 2](redacao/semana2.md)
-* [Inglês](ingles/index.md)
-  * [Semana 1](ingles/semana1.md)
-  * [Semana 2](ingles/semana2.md)
-* [Escola da Inteligência](escola_inteligencia/index.md)
-  * [Semana 1](escola_inteligencia/semana1.md)
-* [Artes](artes/index.md)
-  * [Semana 1](artes/semana1.md)
+* [Semana 2](S02/index.md)
+* [Semana 1](S01/index.md)
 
 ## Datas para envio das atividades corrigidas
 
