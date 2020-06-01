@@ -23,29 +23,26 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 
 ## Plano de Estudos
 
-### Semana 10
+### Semana 11
 
-* [Dia-25/05](dia_20200525.md)
-  * Avaliação de **Matemática** - 13:00 - 15:00h [AVA]
-* [Dia-26/05](dia_20200526.md)
-  * **Prova OMP - Nível Jr - 1ª Fase** - [Sistema Poliedro](http://www.sistemapoliedro.com.br/simuladosdigitais/)
-* [Dia-27/05](dia_20200527.md)
-* [Dia-28/05](dia_20200528.md)
-  * Avaliação de **Inglês** - 13:00 - 15:00h [AVA]
-* [Dia-29/05](dia_20200529.md)
-  * **Prova EDROS** - [Sistema Poliedro](http://www.sistemapoliedro.com.br/simuladosdigitais/)
+* [Dia-01/06](dia_20200601.md)
+* [Dia-02/06](dia_20200602.md)
+* [Dia-03/06](dia_20200603.md)
+* [Dia-04/06](dia_20200604.md)
+* [Dia-05/06](dia_20200605.md)
 
 ### Semanas Anteriores
 
-* [Semana 9](S09/index.md)
-* [Semana 8](S08/index.md)
-* [Semana 7](S07/index.md)
-* [Semana 6](S06/index.md)
-* [Semana 5](S05/index.md)
-* [Semana 4](S04/index.md)
-* [Semana 3](S03/index.md)
-* [Semana 2](S02/index.md)
-* [Semana 1](S01/index.md)
+* [Semana 10](S10/index.md)
+* [Semana 09](S09/index.md)
+* [Semana 08](S08/index.md)
+* [Semana 07](S07/index.md)
+* [Semana 06](S06/index.md)
+* [Semana 05](S05/index.md)
+* [Semana 04](S04/index.md)
+* [Semana 03](S03/index.md)
+* [Semana 02](S02/index.md)
+* [Semana 01](S01/index.md)
 
 ## Datas para envio das atividades corrigidas
 
