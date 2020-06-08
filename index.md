@@ -23,16 +23,16 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 
 ## Plano de Estudos
 
-### Semana 11
+### Semana 12
 
-* [Dia-01/06](dia_20200601.md)
-* [Dia-02/06](dia_20200602.md)
-* [Dia-03/06](dia_20200603.md)
-* [Dia-04/06](dia_20200604.md)
-* [Dia-05/06](dia_20200605.md)
+* [Dia-08/06](dia_20200608.md)
+* [Dia-09/06](dia_20200609.md)
+* [Dia-10/06](dia_20200610.md)
+* [Dia-12/06](dia_20200612.md)
 
 ### Semanas Anteriores
 
+* [Semana 11](S11/index.md)
 * [Semana 10](S10/index.md)
 * [Semana 09](S09/index.md)
 * [Semana 08](S08/index.md)
