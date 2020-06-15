@@ -34,6 +34,8 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 * [Dia-19/06](dia_20200619.md)
     * **Avaliação de Matemática**: 15:10 - 17:10
 
+* Avaliações: 2ª do 2º Trimestre - [Datas e Conteúdo](avaliacoes_2a2t.md)
+
 ### Semanas Anteriores
 
 * [Semana 12](S12/index.md)
