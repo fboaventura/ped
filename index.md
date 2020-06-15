@@ -23,15 +23,20 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 
 ## Plano de Estudos
 
-### Semana 12
+### Semana 13
 
-* [Dia-08/06](dia_20200608.md)
-* [Dia-09/06](dia_20200609.md)
-* [Dia-10/06](dia_20200610.md)
-* [Dia-12/06](dia_20200612.md)
+* [Dia-15/06](dia_20200615.md)
+    * **Avaliação de Redação**: 15:10 - 17:10
+* [Dia-16/06](dia_20200616.md)
+* [Dia-17/06](dia_20200617.md)
+    * **Avaliação de Inglês**: 15:10 - 17:10
+* [Dia-18/06](dia_20200618.md)
+* [Dia-19/06](dia_20200619.md)
+    * **Avaliação de Matemática**: 15:10 - 17:10
 
 ### Semanas Anteriores
 
+* [Semana 12](S12/index.md)
 * [Semana 11](S11/index.md)
 * [Semana 10](S10/index.md)
 * [Semana 09](S09/index.md)
