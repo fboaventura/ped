@@ -23,21 +23,22 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 
 ## Plano de Estudos
 
-### Semana 13
+### Semana 14
 
-* [Dia-15/06](dia_20200615.md)
+* [Dia-22/06](dia_20200622.md)
     * **Avaliação de Redação**: 15:10 - 17:10
-* [Dia-16/06](dia_20200616.md)
-* [Dia-17/06](dia_20200617.md)
+* [Dia-23/06](dia_20200623.md)
+* [Dia-24/06](dia_20200624.md)
     * **Avaliação de Inglês**: 15:10 - 17:10
-* [Dia-18/06](dia_20200618.md)
-* [Dia-19/06](dia_20200619.md)
+* [Dia-25/06](dia_20200625.md)
+* [Dia-26/06](dia_20200626.md)
     * **Avaliação de Matemática**: 15:10 - 17:10
 
 * Avaliações: 2ª do 2º Trimestre - [Datas e Conteúdo](avaliacoes_2a2t.md)
 
 ### Semanas Anteriores
 
+* [Semana 13](S13/index.md)
 * [Semana 12](S12/index.md)
 * [Semana 11](S11/index.md)
 * [Semana 10](S10/index.md)
