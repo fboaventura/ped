@@ -26,13 +26,13 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 ### Semana 14
 
 * [Dia-22/06](dia_20200622.md)
-    * **Avaliação de Redação**: 15:10 - 17:10
+    * **Avaliação de Geografia**: 15:30 - 17:30
 * [Dia-23/06](dia_20200623.md)
+    * **Avaliação de História**: 15:30 - 17:30
 * [Dia-24/06](dia_20200624.md)
-    * **Avaliação de Inglês**: 15:10 - 17:10
 * [Dia-25/06](dia_20200625.md)
+    * **Avaliação de Literatura**: 15:30 - 17:30
 * [Dia-26/06](dia_20200626.md)
-    * **Avaliação de Matemática**: 15:10 - 17:10
 
 * Avaliações: 2ª do 2º Trimestre - [Datas e Conteúdo](avaliacoes_2a2t.md)
 
