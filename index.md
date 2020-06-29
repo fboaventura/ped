@@ -23,21 +23,21 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 
 ## Plano de Estudos
 
-### Semana 14
+### Semana 15
 
-* [Dia-22/06](dia_20200622.md)
-    * **Avaliação de Geografia**: 15:30 - 17:30
-* [Dia-23/06](dia_20200623.md)
-    * **Avaliação de História**: 15:30 - 17:30
-* [Dia-24/06](dia_20200624.md)
-* [Dia-25/06](dia_20200625.md)
-    * **Avaliação de Literatura**: 15:30 - 17:30
-* [Dia-26/06](dia_20200626.md)
+* [Dia-29/06](dia_20200629.md)
+    * **Avaliação de Ciências**: 15:30 - 17:30
+* [Dia-30/06](dia_20200630.md)
+    * **Avaliação de Português**: 15:30 - 17:30
+* [Dia-01/07](dia_20200701.md)
+* [Dia-02/07](dia_20200702.md)
+* [Dia-03/07](dia_20200703.md)
 
 * Avaliações: 2ª do 2º Trimestre - [Datas e Conteúdo](avaliacoes_2a2t.md)
 
 ### Semanas Anteriores
 
+* [Semana 14](S14/index.md)
 * [Semana 13](S13/index.md)
 * [Semana 12](S12/index.md)
 * [Semana 11](S11/index.md)
