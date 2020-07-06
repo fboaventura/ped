@@ -23,20 +23,17 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 
 ## Plano de Estudos
 
-### Semana 15
+### Semana 16
 
-* [Dia-29/06](dia_20200629.md)
-    * **Avaliação de Ciências**: 15:30 - 17:30
-* [Dia-30/06](dia_20200630.md)
-    * **Avaliação de Português**: 15:30 - 17:30
-* [Dia-01/07](dia_20200701.md)
-* [Dia-02/07](dia_20200702.md)
-* [Dia-03/07](dia_20200703.md)
-
-* Avaliações: 2ª do 2º Trimestre - [Datas e Conteúdo](avaliacoes_2a2t.md)
+* [Dia-06/07](S16/dia_20200706.md)
+* [Dia-07/07](S16/dia_20200707.md)
+* [Dia-08/07](S16/dia_20200708.md)
+* [Dia-09/07](S16/dia_20200709.md)
+* [Dia-10/07](S16/dia_20200710.md)
 
 ### Semanas Anteriores
 
+* [Semana 15](S15/index.md)
 * [Semana 14](S14/index.md)
 * [Semana 13](S13/index.md)
 * [Semana 12](S12/index.md)
