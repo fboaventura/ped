@@ -23,16 +23,17 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 
 ## Plano de Estudos
 
-### Semana 16
+# Atividades da Semana 17
 
-* [Dia-06/07](S16/dia_20200706.md)
-* [Dia-07/07](S16/dia_20200707.md)
-* [Dia-08/07](S16/dia_20200708.md)
-* [Dia-09/07](S16/dia_20200709.md)
-* [Dia-10/07](S16/dia_20200710.md)
+* [Dia-13/07](S17/dia_20200713.md)
+* [Dia-14/07](S17/dia_20200714.md)
+* [Dia-15/07](S17/dia_20200715.md)
+* [Dia-16/07](S17/dia_20200716.md)
+* [Dia-17/07](S17/dia_20200717.md)
 
 ### Semanas Anteriores
 
+* [Semana 16](S16/index.md)
 * [Semana 15](S15/index.md)
 * [Semana 14](S14/index.md)
 * [Semana 13](S13/index.md)
