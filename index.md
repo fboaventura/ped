@@ -25,14 +25,15 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 
 # Atividades da Semana 17
 
-* [Dia-13/07](S17/dia_20200713.md)
-* [Dia-14/07](S17/dia_20200714.md)
-* [Dia-15/07](S17/dia_20200715.md)
-* [Dia-16/07](S17/dia_20200716.md)
-* [Dia-17/07](S17/dia_20200717.md)
+* [Dia-03/08](S18/dia_20200803.md)
+* [Dia-04/08](S18/dia_20200804.md)
+* [Dia-05/08](S18/dia_20200805.md)
+* [Dia-06/08](S18/dia_20200806.md)
+* [Dia-07/08](S18/dia_20200807.md)
 
 ### Semanas Anteriores
 
+* [Semana 17](S17/index.md)
 * [Semana 16](S16/index.md)
 * [Semana 15](S15/index.md)
 * [Semana 14](S14/index.md)
