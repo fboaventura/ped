@@ -23,7 +23,7 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 
 ## Plano de Estudos
 
-# Atividades da Semana 17
+# Atividades da Semana 18
 
 * [Dia-03/08](S18/dia_20200803.md)
 * [Dia-04/08](S18/dia_20200804.md)
