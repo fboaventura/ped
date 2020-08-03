@@ -16,7 +16,7 @@ As ferramentas que serão mais utilizadas pelos alunos, estarão disponíveis no
 
 * [Portal Edify](https://portal.edifyeducation.com.br/home)
 
-portal do material de Inglês - Programa Bilíngue. A senha de acesso se encontra colada na agenda escolar.
+portal do material de Inglês - Programa Bilíngue. A senha de acesso se encontra colada na agenda escolar.
 
 Links para complementação dos estudos:
 
