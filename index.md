@@ -24,16 +24,19 @@ Como ferramenta de complementação de estudo/dúvidas, disponibilizamos a segui
 
 ## Plano de Estudos
 
+[Cronograma de Provas](avaliacoes_1a3t.md)
+
 # Atividades da Semana 18
 
-* [Dia-03/08](S18/dia_20200803.md)
-* [Dia-04/08](S18/dia_20200804.md)
-* [Dia-05/08](S18/dia_20200805.md)
-* [Dia-06/08](S18/dia_20200806.md)
-* [Dia-07/08](S18/dia_20200807.md)
+* [Dia-10/08](S19/dia_20200810.md)
+* [Dia-11/08](S19/dia_20200811.md)
+* [Dia-12/08](S19/dia_20200812.md)
+* [Dia-13/08](S19/dia_20200813.md)
+* [Dia-14/08](S19/dia_20200814.md)
 
 ### Semanas Anteriores
 
+* [Semana 18](S18/index.md)
 * [Semana 17](S17/index.md)
 * [Semana 16](S16/index.md)
 * [Semana 15](S15/index.md)
