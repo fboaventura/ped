@@ -13,4 +13,4 @@
 [Voltar](index.md)
 
 
-[plataforma AVA]: https://poliedro-ava.azurewebsites.net
+plataforma AVA: https://poliedro-ava.azurewebsites.net
